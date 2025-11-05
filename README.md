@@ -60,8 +60,7 @@ VITE_API_URL=http://localhost:5000
 npm run dev
 
 # Demo
-![Login](images/loginSS.png)
-![SignUp](images/signupSS.png)
-![Dashboard](images/dashboardSS.png)
-![Marketplace](images/marketplaceSS.png)
-![Swap Request](images/swaprequestSS.png)
+![Login](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/loginSS.png)
+![Dashboard](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/dashboardSS.png)
+![Marketplace](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/marketplaceSS.png)
+![Swap Request](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/swaprequestSS.png)
