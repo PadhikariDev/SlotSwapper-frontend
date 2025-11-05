@@ -58,3 +58,10 @@ VITE_API_URL=http://localhost:5000
 
 # Start development server
 npm run dev
+
+# Demo
+![Login](images/loginSS.png)
+![SignUp](images/signupSS.png)
+![Dashboard](images/dashboardSS.png)
+![Marketplace](images/marketplaceSS.png)
+![Swap Request](images/swaprequestSS.png)
