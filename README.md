@@ -60,7 +60,8 @@ VITE_API_URL=http://localhost:5000
 npm run dev
 
 # Demo
-![Login](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/loginSS.png)
-![Dashboard](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/dashboardSS.png)
-![Marketplace](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/marketplaceSS.png)
-![Swap Request](https://github.com/PadhikariDev/SlotSwapper-frontend/blob/219e8eeaabbc9f1c1f7d9646a868aa6616b0d15a/swaprequestSS.png)
+<img width="1476" height="860" alt="loginSS" src="https://github.com/user-attachments/assets/4e22d2d0-22ec-40a6-a7bd-304a06c6ccc4" />
+<img width="1876" height="714" alt="dashboardSS" src="https://github.com/user-attachments/assets/64d581c1-b983-4ce7-84b1-ab9af155ca86" />
+<img width="1886" height="474" alt="swaprequestSS" src="https://github.com/user-attachments/assets/af817176-250c-4629-86fa-65d402d42b7e" />
+<img width="1877" height="610" alt="marketplaceSS" src="https://github.com/user-attachments/assets/fe709c18-b541-4fd4-b5b0-6dd0c2195716" />
+
