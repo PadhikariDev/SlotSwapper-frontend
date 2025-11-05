@@ -1,16 +1,60 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+### **2️⃣ Frontend README.md**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```markdown
+# SlotSwapper Frontend
 
-## React Compiler
+**SlotSwapper Frontend** is a React.js application for managing and swapping time slots. Tailwind CSS is used for styling, and Axios handles API calls to the backend.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Table of Contents
+- [Overview](#overview)
+- [Tech Stack](#tech-stack)
+- [Setup & Installation](#setup--installation)
+- [Features](#features)
+- [License](#license)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Overview
+SlotSwapper Frontend allows users to:
+- Signup/Login
+- Add events and mark them as swappable
+- View swappable slots from other users
+- Request and respond to swap requests
+- Manage events through a clean dashboard
+
+---
+
+## Tech Stack
+- React.js
+- Tailwind CSS
+- React Router
+- Axios for API calls
+
+---
+
+## Setup & Installation
+
+### Prerequisites
+- Node.js (v18+)
+- npm or yarn
+- Backend server running
+
+### Steps
+```bash
+# Clone frontend repository
+git clone <frontend-repo-url>
+cd frontend
+
+# Install dependencies
+npm install
+
+# Create a .env file with the backend URL
+VITE_API_URL=http://localhost:5000
+
+# Start development server
+npm run dev
