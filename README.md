@@ -59,3 +59,7 @@ VITE_API_URL=http://localhost:5000
 # Start development server
 npm run dev
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3f50bd0cd25e451a6ef1d29cd4e31c78ab5fcabe
